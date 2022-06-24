@@ -15,9 +15,9 @@
 
 - 💬 Ask me about **Java, PHP, and JavaScript.**
 
-- 📫 How to reach me **marklawrencem.david@gmail.com**
+- 📫 Reach me at **marklawrencem.david@gmail.com**
 
-- ⚡ Fun fact **I like watching anime on my free time.**
+- ⚡ Hobby - **I like watching anime on my free time.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
