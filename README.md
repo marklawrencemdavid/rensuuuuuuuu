@@ -1,7 +1,5 @@
 <h2 align="left">Hello there 👋</h2>
 
-- 🔭 I’m currently working on **Dog API.**
-
 - 🌱 I’m currently expanding my knowledge on **Android development and will probably start learning Kotlin.**
 
 - 👯 I’m looking to collaborate on **any Android or Web projects.**
