@@ -8,7 +8,7 @@
 
 - 📫 Reach me at **marklawrencem.david@gmail.com**
 
-- ⚡ My Hobby is - **watching anime.**
+- ⚡ My Hobby is **watching anime.**
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
