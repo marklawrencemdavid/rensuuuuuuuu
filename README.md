@@ -2,7 +2,7 @@
 
 - 🌱 I’m currently expanding my knowledge on **Android development and will probably start learning Kotlin.**
 
-- 👯 I’m looking to collaborate on **any Android or Web projects.**
+- 👯 I’m looking to collaborate on **any Android and Web projects.**
 
 - 💬 Ask me about **Java, PHP, and JavaScript.**
 
