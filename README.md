@@ -4,7 +4,7 @@
 
 - 👯 I’m looking to collaborate on **any Android and Web projects.**
 
-- 💬 Ask me about **Java, PHP, and JavaScript.**
+- 💬 Ask me anything about **Java, PHP, and JavaScript.**
 
 - 📫 Reach me at **marklawrencem.david@gmail.com**
 
