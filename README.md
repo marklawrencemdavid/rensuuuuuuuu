@@ -1,14 +1,14 @@
 <h2 align="left">Hello there 👋</h2>
 
-- 🌱 I’m currently expanding my knowledge on **Android development.**
+- 👨‍💻 I’m an **Web and Android developer.**
 
-- 👯 I’m looking to collaborate on **any Android and Web projects.**
+- 👯 I’m looking to collaborate on **any Web and Android projects.**
 
-- 💬 Ask me anything about **Java, PHP, and JavaScript.**
+- 💬 Ask me anything about **Laravel, JQuery, Java, PHP, and JavaScript.**
 
 - 📫 Reach me at **marklawrencem.david@gmail.com**
 
-- ⚡ My Hobby is **watching anime.**
+- ⚡ My Hobby is **watching anime and playing valorant.**
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
